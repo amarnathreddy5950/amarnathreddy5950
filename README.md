@@ -24,7 +24,7 @@
 I design and ship **AI agent systems on Amazon Bedrock (Claude)** that automatically detect, diagnose, and explain supply chain anomalies, turning raw data into actionable root cause analysis using multi-step agentic workflows and event-driven architectures. I care about clean abstractions, reliability, and measuring quality, not just shipping demos.
 
 - 🔭 **At AWS:** built monitoring for an AI-powered RCA service from zero (50+ CloudWatch alarms, auto-rollback across 2 regions), architected multi-step agent workflows handling 600+ concurrent runs, and built an LLM-as-judge evaluation framework.
-- 🌱 **Currently building:** an open-source LLM evaluation toolkit and a multi-agent investigator. <!-- TODO: link repos when live -->
+- 🌱 Recently Built [Verdict](https://github.com/amarnathreddy5950/Verdict) an open-source LLM evaluation toolkit and a multi-agent investigator.
 - 💬 **Ask me about:** AI agents, LLM applications, RAG, evaluation, and cloud-native AI infrastructure.
 - 📍 Greater Seattle Area · open to global remote roles.
 
