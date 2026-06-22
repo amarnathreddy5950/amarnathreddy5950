@@ -24,7 +24,6 @@
 I design and ship **AI agent systems on Amazon Bedrock (Claude)** that automatically detect, diagnose, and explain supply chain anomalies, turning raw data into actionable root cause analysis using multi-step agentic workflows and event-driven architectures. I care about clean abstractions, reliability, and measuring quality, not just shipping demos.
 
 - 🔭 **At AWS:** built monitoring for an AI-powered RCA service from zero (50+ CloudWatch alarms, auto-rollback across 2 regions), architected multi-step agent workflows handling 600+ concurrent runs, and built an LLM-as-judge evaluation framework.
-- 🌱 Recently Built [Verdict](https://github.com/amarnathreddy5950/Verdict) an open-source LLM evaluation toolkit and a multi-agent investigator.
 - 💬 **Ask me about:** AI agents, LLM applications, RAG, evaluation, and cloud-native AI infrastructure.
 - 📍 Greater Seattle Area · open to global remote roles.
 
@@ -38,9 +37,7 @@ I design and ship **AI agent systems on Amazon Bedrock (Claude)** that automatic
 `Python` · `Kotlin` · `TypeScript` · `AWS` · `Amazon Bedrock (Claude)` · `AWS Lambda` · `Step Functions` · `DynamoDB` · `SQS` · `EventBridge` · `AWS CDK` · `Docker` · `RAG` · `LLM Evaluation`
 
 ### Featured work
-<!-- TODO: replace these with your real repos once built -->
-- **llm-eval-toolkit** — an LLM-as-judge evaluation harness with regression testing and model comparison reports.
-- **agent-investigator** — a multi-step AI agent that investigates a problem and produces an explained root cause.
+- **[Verdict](https://github.com/amarnathreddy5950/Verdict)** — a model-agnostic LLM evaluation toolkit that audits the *judge* for bias (position / length / style / authority / sentiment) with bootstrap confidence intervals, plus built-in mitigations (chain-of-thought & rubric judging, format normalization, a multi-judge jury) and a CI regression gate
 
 
 <sub>Education: M.S. Computer Science, UNC Charlotte · B.Tech Computer Science, India</sub>
