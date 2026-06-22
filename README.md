@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amarnath-reddy-ch/">LinkedIn</a> ·
   <a href="mailto:chinthapalli656@gmail.com">Email</a> ·
-  <!-- TODO: add your portfolio URL once hosted --> Portfolio (coming soon)
+  <a href="https://amarnathreddy5950.github.io/">Portfolio</a>
 </p>
 
 ---
